@@ -1,0 +1,4 @@
+#-no-mtime -o /data/data/com.termux/files/home/storage/shared/Youtube/%(title)s.%(ext)s -f 140
+
+
+-no-mtime -o /data/data/com.termux/files/home/Athena/athena_music/%(title)s.%(ext)s -f 140
