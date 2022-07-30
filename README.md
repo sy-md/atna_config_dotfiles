@@ -11,7 +11,7 @@ athena is empty
   1-2.) git clone ohmyzsh <DST>
   1-3.) git clone nvim <DST>
 
-2.) sudo apt --fix-broken install
-3.) pip install ranger
 
-yes | cp -rf .config/ .oh-my-zsh/ .vim/ .zshrc <DST>
+
+
+cd athena-config && yes | cp -rf .config/ .oh-my-zsh/ .vim/ .zshrc ../
