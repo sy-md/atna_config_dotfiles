@@ -9,6 +9,9 @@ if comfirm == "y":
 	os.system("git clone 'https://github.com/sy-md/Athena.git'")
 	os.system("git clone 'https://github.com/sy-md/ohmyzsh.git' ")
 	os.system("git clone 'https://github.com/sy-md/nvim.git' ")
+	os.system("mv nvim ../ ")
+	os.sytem("mv ohmyzsh .ohmyzsh && mv .ohmyzsh ../")
+	
 if comfirm  == "n":
 	exit()
 
