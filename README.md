@@ -15,3 +15,7 @@ athena is empty
 
 
 cd athena-config && yes | cp -rf .config/ .oh-my-zsh/ .vim/ .zshrc ../
+  
+  
+  
+  helps with making nvim work https://youtu.be/2wapxsfzLho
