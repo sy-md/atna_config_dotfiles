@@ -1,0 +1,3 @@
+[submodule "i3lock"]
+	path = i3lock
+	url = https://github.com/Raymo111/i3lock-color
